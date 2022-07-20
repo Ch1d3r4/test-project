@@ -11,18 +11,11 @@ html, body {
   max-width: 100%;
   margin: 30px auto;
 }
-#img-div {
-  background: #fff;
-  border-radius: 4px;
-  padding: 4px 4px 10px;
-  margin: -5px;
-  margin-top: 20px;
-}
-#image {
+
+#image{
   max-width: 100%;
-  height: auto;
   display: block;
-  margin: auto;
+  height: auto;
 }
 #img-caption {
   margin-top: 10px;
@@ -41,3 +34,7 @@ h4 {
 li {
   margin: 10px;
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
